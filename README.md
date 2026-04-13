@@ -47,7 +47,7 @@
 ### Contributions & Streak
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=valiyyaddin&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=valiyyaddin"  alt="" />
+  <img height="165" src="https://streak-stats.demolab.com?user=valiyyaddin">
 </p>
 
 
