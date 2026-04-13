@@ -50,12 +50,7 @@
   <img height="165" src="https://streak-stats.demolab.com?user=valiyyaddin" alt="GitHub streak" />
 </p>
 
-### Top Languages
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valiyyaddin&layout=compact" alt="Top languages" />
-</p>
 
----
 
 ## What I Like Building
 - **AI-powered backend services** (model inference behind clean APIs)
