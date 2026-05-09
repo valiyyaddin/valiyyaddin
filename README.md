@@ -18,6 +18,7 @@
 ### Languages
 - **Python**
 - **C**
+- **C++**
 
 ### Backend
 - **Django**
